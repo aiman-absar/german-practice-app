@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>German Practice App</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <header>
+    <h1>German Language Practice</h1>
+    <div id="controls">
+      <!-- Level and threshold controls -->
+      <span id="level-indicator">Level: 1</span>
+      <label for="thresholdSelect">Accuracy Threshold:</label>
+      <select id="thresholdSelect">
+        <option value="20">20%</option>
+        <option value="30">30%</option>
+        <option value="40">40%</option>
+        <option value="50">50%</option>
+        <option value="60">60%</option>
+        <option value="70">70%</option>
+        <option value="80" selected>80%</option>
+        <option value="90">90%</option>
+      </select>
+      <span id="score-display">Score: 0/0 (0%)</span>
+    </div>
+  </header>
+
+  <main>
+    <!-- Quiz question container -->
+    <div id="question-container">
+      <!-- Question content (prompt + inputs) will be dynamically injected here -->
+    </div>
+
+    <!-- Feedback message area -->
+    <div id="feedback"></div>
+
+    <!-- Action buttons for checking answer / next question -->
+    <div id="actions">
+      <button id="check-btn" disabled>Check Answer</button>
+      <button id="next-btn" disabled>Next Question</button>
+    </div>
+
+    <hr />
+
+    <!-- Verbdictionary section -->
+    <section id="dictionary-section">
+      <h2>Verbdictionary</h2>
+      <p>Type a German verb to see its conjugation and example usage:</p>
+      <div id="dict-input-area">
+        <input type="text" id="dict-input" placeholder="Enter a German verb..." />
+        <button id="dict-search">Search</button>
+      </div>
+      <div id="dict-results">
+        <!-- Results (conjugation table and examples) will appear here -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p><em>Tip:</em> You can change the threshold at any time to adjust difficulty (this will restart the session).</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

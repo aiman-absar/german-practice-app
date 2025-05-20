@@ -1,0 +1,123 @@
+/* Basic reset and typography */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #fdfdfd;
+  color: #333;
+}
+h1, h2 {
+  color: #003366;
+}
+#controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1em;
+  margin-bottom: 1em;
+}
+#controls label, #controls span {
+  font-weight: bold;
+}
+#level-indicator {
+  margin-right: auto; /* push other controls to the right */
+}
+#score-display {
+  margin-left: 1em;
+}
+
+/* Question container styling */
+#question-container {
+  padding: 1em;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  min-height: 120px;
+  margin-bottom: 0.5em;
+}
+#question-container p {
+  font-size: 1.1em;
+}
+#question-container table {
+  width: 100%;
+  max-width: 400px;
+  border-collapse: collapse;
+  margin: 0.5em 0;
+}
+#question-container table td {
+  padding: 4px 6px;
+  border: 1px solid #ddd;
+}
+#question-container table td:first-child {
+  font-weight: bold;
+}
+#question-container input[type=text] {
+  padding: 3px;
+  font-size: 1em;
+}
+
+/* Feedback styles */
+#feedback {
+  min-height: 1.5em;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+#feedback.correct {
+  color: green;
+}
+#feedback.incorrect {
+  color: red;
+}
+
+/* Buttons */
+#actions {
+  margin: 0.5em 0;
+}
+#actions button {
+  padding: 0.5em 1em;
+  font-size: 1em;
+}
+#actions button:disabled {
+  opacity: 0.5;
+}
+
+/* Verbdictionary styles */
+#dictionary-section {
+  margin-top: 2em;
+}
+#dict-input-area {
+  margin-bottom: 1em;
+}
+#dict-input {
+  padding: 5px;
+  font-size: 1em;
+  width: 200px;
+}
+#dict-results {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 0.5em;
+  border-radius: 4px;
+}
+#dict-results table {
+  border: 1px solid #aaa;
+  border-collapse: collapse;
+  margin-bottom: 0.5em;
+}
+#dict-results table td {
+  border: 1px solid #aaa;
+  padding: 4px 8px;
+}
+#dict-results ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+#dict-results li {
+  margin: 3px 0;
+}
+
+/* Styles for correct/incorrect inputs in conjugation table */
+.correct-cell {
+  background: #c6f6c6; /* light green */
+}
+.incorrect-cell {
+  background: #f6c6c6; /* light red */
+}
