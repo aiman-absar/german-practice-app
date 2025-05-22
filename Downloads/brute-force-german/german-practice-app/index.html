@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>German Quiz App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>German Quiz App</h1>
+
+  <div id="controls">
+    <label for="threshold-select">Pass Threshold: </label>
+    <select id="threshold-select">
+      <option value="20">20%</option>
+      <option value="30">30%</option>
+      <option value="40">40%</option>
+      <option value="50">50%</option>
+      <option value="60">60%</option>
+      <option value="70">70%</option>
+      <option value="80" selected>80%</option>
+      <option value="90">90%</option>
+      <option value="100">100%</option>
+    </select>
+  </div>
+
+  <div id="app-container">
+    <!-- Quiz section (questions and level) -->
+    <div id="quiz-section">
+      <h2 id="level-title">Level 1</h2>
+      <div id="question-container">
+        <!-- Question content will be injected here -->
+      </div>
+      <button id="submit-btn">Check</button>
+    </div>
+    <!-- Mistakes section -->
+    <div id="mistakes-section">
+      <h3>Mistakes</h3>
+      <ul id="mistakes-list"></ul>
+    </div>
+  </div>
+
+  <!-- Dictionary Section -->
+  <div id="dictionary-section">
+    <h3>Verb Dictionary</h3>
+    <input type="text" id="dict-input" placeholder="Enter a German verb" />
+    <button id="dict-search-btn">Search</button>
+    <div id="dict-result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
