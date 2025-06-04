@@ -1,0 +1,809 @@
+[
+  {
+    "infinitive": "sein",
+    "english_meaning": "to be",
+    "present_tense": {
+      "ich": "bin",
+      "du": "bist",
+      "er/sie/es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie/Sie": "sind",
+      "rank": 1
+    }
+  },
+  {
+    "infinitive": "haben",
+    "english_meaning": "to have",
+    "present_tense": {
+      "ich": "habe",
+      "du": "hast",
+      "er/sie/es": "hat",
+      "wir": "haben",
+      "ihr": "habt",
+      "sie/Sie": "haben",
+      "rank": 2
+    }
+  },
+  {
+    "infinitive": "werden",
+    "english_meaning": "to become",
+    "present_tense": {
+      "ich": "werde",
+      "du": "wirst",
+      "er/sie/es": "wird",
+      "wir": "werden",
+      "ihr": "werdet",
+      "sie/Sie": "werden",
+      "rank": 3
+    }
+  },
+  {
+    "infinitive": "können",
+    "english_meaning": "to be able to, can",
+    "present_tense": {
+      "ich": "kann",
+      "du": "kannst",
+      "er/sie/es": "kann",
+      "wir": "können",
+      "ihr": "könnt",
+      "sie/Sie": "können",
+      "rank": 4
+    }
+  },
+  {
+    "infinitive": "müssen",
+    "english_meaning": "to have to, must",
+    "present_tense": {
+      "ich": "muss",
+      "du": "musst",
+      "er/sie/es": "muss",
+      "wir": "müssen",
+      "ihr": "müsst",
+      "sie/Sie": "müssen",
+      "rank": 5
+    }
+  },
+  {
+    "infinitive": "sagen",
+    "english_meaning": "to say",
+    "present_tense": {
+      "ich": "sage",
+      "du": "sagst",
+      "er/sie/es": "sagt",
+      "wir": "sagen",
+      "ihr": "sagt",
+      "sie/Sie": "sagen",
+      "rank": 6
+    }
+  },
+  {
+    "infinitive": "machen",
+    "english_meaning": "to make, to do",
+    "present_tense": {
+      "ich": "mache",
+      "du": "machst",
+      "er/sie/es": "macht",
+      "wir": "machen",
+      "ihr": "macht",
+      "sie/Sie": "machen",
+      "rank": 7
+    }
+  },
+  {
+    "infinitive": "geben",
+    "english_meaning": "to give",
+    "present_tense": {
+      "ich": "gebe",
+      "du": "gibst",
+      "er/sie/es": "gibt",
+      "wir": "geben",
+      "ihr": "gebt",
+      "sie/Sie": "geben",
+      "rank": 8
+    }
+  },
+  {
+    "infinitive": "kommen",
+    "english_meaning": "to come",
+    "present_tense": {
+      "ich": "komme",
+      "du": "kommst",
+      "er/sie/es": "kommt",
+      "wir": "kommen",
+      "ihr": "kommt",
+      "sie/Sie": "kommen",
+      "rank": 9
+    }
+  },
+  {
+    "infinitive": "sollen",
+    "english_meaning": "should, ought to",
+    "present_tense": {
+      "ich": "soll",
+      "du": "sollst",
+      "er/sie/es": "soll",
+      "wir": "sollen",
+      "ihr": "sollt",
+      "sie/Sie": "sollen",
+      "rank": 10
+    }
+  },
+  {
+    "infinitive": "wollen",
+    "english_meaning": "to want to",
+    "present_tense": {
+      "ich": "will",
+      "du": "willst",
+      "er/sie/es": "will",
+      "wir": "wollen",
+      "ihr": "wollt",
+      "sie/Sie": "wollen",
+      "rank": 11
+    }
+  },
+  {
+    "infinitive": "gehen",
+    "english_meaning": "to go",
+    "present_tense": {
+      "ich": "gehe",
+      "du": "gehst",
+      "er/sie/es": "geht",
+      "wir": "gehen",
+      "ihr": "geht",
+      "sie/Sie": "gehen",
+      "rank": 12
+    }
+  },
+  {
+    "infinitive": "wissen",
+    "english_meaning": "to know (a fact)",
+    "present_tense": {
+      "ich": "weiß",
+      "du": "weißt",
+      "er/sie/es": "weiß",
+      "wir": "wissen",
+      "ihr": "wisst",
+      "sie/Sie": "wissen",
+      "rank": 13
+    }
+  },
+  {
+    "infinitive": "sehen",
+    "english_meaning": "to see",
+    "present_tense": {
+      "ich": "sehe",
+      "du": "siehst",
+      "er/sie/es": "sieht",
+      "wir": "sehen",
+      "ihr": "seht",
+      "sie/Sie": "sehen",
+      "rank": 14
+    }
+  },
+  {
+    "infinitive": "lassen",
+    "english_meaning": "to let, to allow, to have something done",
+    "present_tense": {
+      "ich": "lasse",
+      "du": "lässt",
+      "er/sie/es": "lässt",
+      "wir": "lassen",
+      "ihr": "lasst",
+      "sie/Sie": "lassen",
+      "rank": 15
+    }
+  },
+  {
+    "infinitive": "stehen",
+    "english_meaning": "to stand",
+    "present_tense": {
+      "ich": "stehe",
+      "du": "stehst",
+      "er/sie/es": "steht",
+      "wir": "stehen",
+      "ihr": "steht",
+      "sie/Sie": "stehen",
+      "rank": 16
+    }
+  },
+  {
+    "infinitive": "finden",
+    "english_meaning": "to find",
+    "present_tense": {
+      "ich": "finde",
+      "du": "findest",
+      "er/sie/es": "findet",
+      "wir": "finden",
+      "ihr": "findet",
+      "sie/Sie": "finden",
+      "rank": 17
+    }
+  },
+  {
+    "infinitive": "bleiben",
+    "english_meaning": "to stay, to remain",
+    "present_tense": {
+      "ich": "bleibe",
+      "du": "bleibst",
+      "er/sie/es": "bleibt",
+      "wir": "bleiben",
+      "ihr": "bleibt",
+      "sie/Sie": "bleiben",
+      "rank": 18
+    }
+  },
+  {
+    "infinitive": "liegen",
+    "english_meaning": "to lie, to be located",
+    "present_tense": {
+      "ich": "liege",
+      "du": "liegst",
+      "er/sie/es": "liegt",
+      "wir": "liegen",
+      "ihr": "liegt",
+      "sie/Sie": "liegen",
+      "rank": 19
+    }
+  },
+  {
+    "infinitive": "heißen",
+    "english_meaning": "to be called",
+    "present_tense": {
+      "ich": "heiße",
+      "du": "heißt",
+      "er/sie/es": "heißt",
+      "wir": "heißen",
+      "ihr": "heißt",
+      "sie/Sie": "heißen",
+      "rank": 20
+    }
+  },
+  {
+    "infinitive": "denken",
+    "english_meaning": "to think",
+    "present_tense": {
+      "ich": "denke",
+      "du": "denkst",
+      "er/sie/es": "denkt",
+      "wir": "denken",
+      "ihr": "denkt",
+      "sie/Sie": "denken",
+      "rank": 21
+    }
+  },
+  {
+    "infinitive": "nehmen",
+    "english_meaning": "to take",
+    "present_tense": {
+      "ich": "nehme",
+      "du": "nimmst",
+      "er/sie/es": "nimmt",
+      "wir": "nehmen",
+      "ihr": "nehmt",
+      "sie/Sie": "nehmen",
+      "rank": 22
+    }
+  },
+  {
+    "infinitive": "dürfen",
+    "english_meaning": "may, to be allowed to",
+    "present_tense": {
+      "ich": "darf",
+      "du": "darfst",
+      "er/sie/es": "darf",
+      "wir": "dürfen",
+      "ihr": "dürft",
+      "sie/Sie": "dürfen",
+      "rank": 23
+    }
+  },
+  {
+    "infinitive": "glauben",
+    "english_meaning": "to believe",
+    "present_tense": {
+      "ich": "glaube",
+      "du": "glaubst",
+      "er/sie/es": "glaubt",
+      "wir": "glauben",
+      "ihr": "glaubt",
+      "sie/Sie": "glauben",
+      "rank": 24
+    }
+  },
+  {
+    "infinitive": "halten",
+    "english_meaning": "to hold, to stop",
+    "present_tense": {
+      "ich": "halte",
+      "du": "hältst",
+      "er/sie/es": "hält",
+      "wir": "halten",
+      "ihr": "haltet",
+      "sie/Sie": "halten",
+      "rank": 25
+    }
+  },
+  {
+    "infinitive": "nennen",
+    "english_meaning": "to name, to call",
+    "present_tense": {
+      "ich": "nenne",
+      "du": "nennst",
+      "er/sie/es": "nennt",
+      "wir": "nennen",
+      "ihr": "nennt",
+      "sie/Sie": "nennen",
+      "rank": 26
+    }
+  },
+  {
+    "infinitive": "mögen",
+    "english_meaning": "to like, may",
+    "present_tense": {
+      "ich": "mag",
+      "du": "magst",
+      "er/sie/es": "mag",
+      "wir": "mögen",
+      "ihr": "mögt",
+      "sie/Sie": "mögen",
+      "rank": 27
+    }
+  },
+  {
+    "infinitive": "zeigen",
+    "english_meaning": "to show",
+    "present_tense": {
+      "ich": "zeige",
+      "du": "zeigst",
+      "er/sie/es": "zeigt",
+      "wir": "zeigen",
+      "ihr": "zeigt",
+      "sie/Sie": "zeigen",
+      "rank": 28
+    }
+  },
+  {
+    "infinitive": "führen",
+    "english_meaning": "to lead, to guide",
+    "present_tense": {
+      "ich": "führe",
+      "du": "führst",
+      "er/sie/es": "führt",
+      "wir": "führen",
+      "ihr": "führt",
+      "sie/Sie": "führen",
+      "rank": 29
+    }
+  },
+  {
+    "infinitive": "sprechen",
+    "english_meaning": "to speak",
+    "present_tense": {
+      "ich": "spreche",
+      "du": "sprichst",
+      "er/sie/es": "spricht",
+      "wir": "sprechen",
+      "ihr": "sprecht",
+      "sie/Sie": "sprechen",
+      "rank": 30
+    }
+  },
+  {
+    "infinitive": "bringen",
+    "english_meaning": "to bring",
+    "present_tense": {
+      "ich": "bringe",
+      "du": "bringst",
+      "er/sie/es": "bringt",
+      "wir": "bringen",
+      "ihr": "bringt",
+      "sie/Sie": "bringen",
+      "rank": 31
+    }
+  },
+  {
+    "infinitive": "leben",
+    "english_meaning": "to live",
+    "present_tense": {
+      "ich": "lebe",
+      "du": "lebst",
+      "er/sie/es": "lebt",
+      "wir": "leben",
+      "ihr": "lebt",
+      "sie/Sie": "leben",
+      "rank": 32
+    }
+  },
+  {
+    "infinitive": "fahren",
+    "english_meaning": "to drive, to go",
+    "present_tense": {
+      "ich": "fahre",
+      "du": "fährst",
+      "er/sie/es": "fährt",
+      "wir": "fahren",
+      "ihr": "fahrt",
+      "sie/Sie": "fahren",
+      "rank": 33
+    }
+  },
+  {
+    "infinitive": "meinen",
+    "english_meaning": "to mean, to think",
+    "present_tense": {
+      "ich": "meine",
+      "du": "meinst",
+      "er/sie/es": "meint",
+      "wir": "meinen",
+      "ihr": "meint",
+      "sie/Sie": "meinen",
+      "rank": 34
+    }
+  },
+  {
+    "infinitive": "fragen",
+    "english_meaning": "to ask",
+    "present_tense": {
+      "ich": "frage",
+      "du": "fragst",
+      "er/sie/es": "fragt",
+      "wir": "fragen",
+      "ihr": "fragt",
+      "sie/Sie": "fragen",
+      "rank": 35
+    }
+  },
+  {
+    "infinitive": "kennen",
+    "english_meaning": "to know (a person/place)",
+    "present_tense": {
+      "ich": "kenne",
+      "du": "kennst",
+      "er/sie/es": "kennt",
+      "wir": "kennen",
+      "ihr": "kennt",
+      "sie/Sie": "kennen",
+      "rank": 36
+    }
+  },
+  {
+    "infinitive": "gelten",
+    "english_meaning": "to be valid, to apply",
+    "present_tense": {
+      "ich": "gelte",
+      "du": "giltst",
+      "er/sie/es": "gilt",
+      "wir": "gelten",
+      "ihr": "geltet",
+      "sie/Sie": "gelten",
+      "rank": 37
+    }
+  },
+  {
+    "infinitive": "stellen",
+    "english_meaning": "to put, to place (upright)",
+    "present_tense": {
+      "ich": "stelle",
+      "du": "stellst",
+      "er/sie/es": "stellt",
+      "wir": "stellen",
+      "ihr": "stellt",
+      "sie/Sie": "stellen",
+      "rank": 38
+    }
+  },
+  {
+    "infinitive": "spielen",
+    "english_meaning": "to play",
+    "present_tense": {
+      "ich": "spiele",
+      "du": "spielst",
+      "er/sie/es": "spielt",
+      "wir": "spielen",
+      "ihr": "spielt",
+      "sie/Sie": "spielen",
+      "rank": 39
+    }
+  },
+  {
+    "infinitive": "arbeiten",
+    "english_meaning": "to work",
+    "present_tense": {
+      "ich": "arbeite",
+      "du": "arbeitest",
+      "er/sie/es": "arbeitet",
+      "wir": "arbeiten",
+      "ihr": "arbeitet",
+      "sie/Sie": "arbeiten",
+      "rank": 40
+    }
+  },
+  {
+    "infinitive": "brauchen",
+    "english_meaning": "to need",
+    "present_tense": {
+      "ich": "brauche",
+      "du": "brauchst",
+      "er/sie/es": "braucht",
+      "wir": "brauchen",
+      "ihr": "braucht",
+      "sie/Sie": "brauchen",
+      "rank": 41
+    }
+  },
+  {
+    "infinitive": "folgen",
+    "english_meaning": "to follow",
+    "present_tense": {
+      "ich": "folge",
+      "du": "folgst",
+      "er/sie/es": "folgt",
+      "wir": "folgen",
+      "ihr": "folgt",
+      "sie/Sie": "folgen",
+      "rank": 42
+    }
+  },
+  {
+    "infinitive": "lernen",
+    "english_meaning": "to learn",
+    "present_tense": {
+      "ich": "lerne",
+      "du": "lernst",
+      "er/sie/es": "lernt",
+      "wir": "lernen",
+      "ihr": "lernt",
+      "sie/Sie": "lernen",
+      "rank": 43
+    }
+  },
+  {
+    "infinitive": "bestehen",
+    "english_meaning": "to exist, to pass (an exam)",
+    "present_tense": {
+      "ich": "bestehe",
+      "du": "bestehst",
+      "er/sie/es": "besteht",
+      "wir": "bestehen",
+      "ihr": "besteht",
+      "sie/Sie": "bestehen",
+      "rank": 44
+    }
+  },
+  {
+    "infinitive": "verstehen",
+    "english_meaning": "to understand",
+    "present_tense": {
+      "ich": "verstehe",
+      "du": "verstehst",
+      "er/sie/es": "versteht",
+      "wir": "verstehen",
+      "ihr": "versteht",
+      "sie/Sie": "verstehen",
+      "rank": 45
+    }
+  },
+  {
+    "infinitive": "setzen",
+    "english_meaning": "to set, to put (down)",
+    "present_tense": {
+      "ich": "setze",
+      "du": "setzt",
+      "er/sie/es": "setzt",
+      "wir": "setzen",
+      "ihr": "setzt",
+      "sie/Sie": "setzen",
+      "rank": 46
+    }
+  },
+  {
+    "infinitive": "bekommen",
+    "english_meaning": "to get, to receive",
+    "present_tense": {
+      "ich": "bekomme",
+      "du": "bekommst",
+      "er/sie/es": "bekommt",
+      "wir": "bekommen",
+      "ihr": "bekommt",
+      "sie/Sie": "bekommen",
+      "rank": 47
+    }
+  },
+  {
+    "infinitive": "beginnen",
+    "english_meaning": "to begin",
+    "present_tense": {
+      "ich": "beginne",
+      "du": "beginnst",
+      "er/sie/es": "beginnt",
+      "wir": "beginnen",
+      "ihr": "beginnt",
+      "sie/Sie": "beginnen",
+      "rank": 48
+    }
+  },
+  {
+    "infinitive": "erzählen",
+    "english_meaning": "to tell, to narrate",
+    "present_tense": {
+      "ich": "erzähle",
+      "du": "erzählst",
+      "er/sie/es": "erzählt",
+      "wir": "erzählen",
+      "ihr": "erzählt",
+      "sie/Sie": "erzählen",
+      "rank": 49
+    }
+  },
+  {
+    "infinitive": "versuchen",
+    "english_meaning": "to try, to attempt",
+    "present_tense": {
+      "ich": "versuche",
+      "du": "versuchst",
+      "er/sie/es": "versucht",
+      "wir": "versuchen",
+      "ihr": "versucht",
+      "sie/Sie": "versuchen",
+      "rank": 50
+    }
+  },
+  {
+    "infinitive": "schreiben",
+    "english_meaning": "to write",
+    "present_tense": {
+      "ich": "schreibe",
+      "du": "schreibst",
+      "er/sie/es": "schreibt",
+      "wir": "schreiben",
+      "ihr": "schreibt",
+      "sie/Sie": "schreiben",
+      "rank": 51
+    }
+  },
+  {
+    "infinitive": "laufen",
+    "english_meaning": "to run, to walk",
+    "present_tense": {
+      "ich": "laufe",
+      "du": "läufst",
+      "er/sie/es": "läuft",
+      "wir": "laufen",
+      "ihr": "lauft",
+      "sie/Sie": "laufen",
+      "rank": 52
+    }
+  },
+  {
+    "infinitive": "erklären",
+    "english_meaning": "to explain",
+    "present_tense": {
+      "ich": "erkläre",
+      "du": "erklärst",
+      "er/sie/es": "erklärt",
+      "wir": "erklären",
+      "ihr": "erklärt",
+      "sie/Sie": "erklären",
+      "rank": 53
+    }
+  },
+  {
+    "infinitive": "entsprechen",
+    "english_meaning": "to correspond to",
+    "present_tense": {
+      "ich": "entspreche",
+      "du": "entsprichst",
+      "er/sie/es": "entspricht",
+      "wir": "entsprechen",
+      "ihr": "entsprecht",
+      "sie/Sie": "entsprechen",
+      "rank": 54
+    }
+  },
+  {
+    "infinitive": "sitzen",
+    "english_meaning": "to sit",
+    "present_tense": {
+      "ich": "sitze",
+      "du": "sitzt",
+      "er/sie/es": "sitzt",
+      "wir": "sitzen",
+      "ihr": "sitzt",
+      "sie/Sie": "sitzen",
+      "rank": 55
+    }
+  },
+  {
+    "infinitive": "ziehen",
+    "english_meaning": "to pull, to move",
+    "present_tense": {
+      "ich": "ziehe",
+      "du": "ziehst",
+      "er/sie/es": "zieht",
+      "wir": "ziehen",
+      "ihr": "zieht",
+      "sie/Sie": "ziehen",
+      "rank": 56
+    }
+  },
+  {
+    "infinitive": "scheinen",
+    "english_meaning": "to seem, to shine",
+    "present_tense": {
+      "ich": "scheine",
+      "du": "scheinst",
+      "er/sie/es": "scheint",
+      "wir": "scheinen",
+      "ihr": "scheint",
+      "sie/Sie": "scheinen",
+      "rank": 57
+    }
+  },
+  {
+    "infinitive": "fallen",
+    "english_meaning": "to fall",
+    "present_tense": {
+      "ich": "falle",
+      "du": "fällst",
+      "er/sie/es": "fällt",
+      "wir": "fallen",
+      "ihr": "fallt",
+      "sie/Sie": "fallen",
+      "rank": 58
+    }
+  },
+  {
+    "infinitive": "gehören",
+    "english_meaning": "to belong to",
+    "present_tense": {
+      "ich": "gehöre",
+      "du": "gehörst",
+      "er/sie/es": "gehört",
+      "wir": "gehören",
+      "ihr": "gehört",
+      "sie/Sie": "gehören",
+      "rank": 59
+    }
+  },
+  {
+    "infinitive": "entstehen",
+    "english_meaning": "to arise, to originate",
+    "present_tense": {
+      "ich": "entstehe",
+      "du": "entstehst",
+      "er/sie/es": "entsteht",
+      "wir": "entstehen",
+      "ihr": "entsteht",
+      "sie/Sie": "entstehen",
+      "rank": 60
+    }
+  },
+  {
+    "infinitive": "erhalten",
+    "english_meaning": "to receive, to obtain",
+    "present_tense": {
+      "ich": "erhalte",
+      "du": "erhältst",
+      "er/sie/es": "erhält",
+      "wir": "erhalten",
+      "ihr": "erhaltet",
+      "sie/Sie": "erhalten",
+      "rank": 61
+    }
+  },
+  {
+    "infinitive": "treffen",
+    "english_meaning": "to meet, to hit",
+    "present_tense": {
+      "ich": "treffe",
+      "du": "triffst",
+      "er/sie/es": "trifft",
+      "wir": "treffen",
+      "ihr": "trifft",
+      "sie/Sie": "treffen",
+      "rank" : 62
+    }
+  }    
+
+]

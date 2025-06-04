@@ -1,0 +1,1257 @@
+[
+  {
+    "noun_singular": "Mann",
+    "english_meaning": "Man",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Männer"
+    ],
+    "frequency_rank": 121
+  },
+  {
+    "noun_singular": "Hand",
+    "english_meaning": "Hand",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Hände"
+    ],
+    "frequency_rank": 180
+  },
+  {
+    "noun_singular": "Tag",
+    "english_meaning": "Day",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Tage"
+    ],
+    "frequency_rank": 111
+  },
+  {
+    "noun_singular": "Weg",
+    "english_meaning": "Way",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Wege"
+    ],
+    "frequency_rank": 220
+  },
+  {
+    "noun_singular": "Auge",
+    "english_meaning": "Eye",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Augen"
+    ],
+    "frequency_rank": 222
+  },
+  {
+    "noun_singular": "Sache",
+    "english_meaning": "Thing",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Sachen"
+    ],
+    "frequency_rank": 318
+  },
+  {
+    "noun_singular": "Kopf",
+    "english_meaning": "Head",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Köpfe"
+    ],
+    "frequency_rank": 250
+  },
+  {
+    "noun_singular": "Jahr",
+    "english_meaning": "Year",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Jahre"
+    ],
+    "frequency_rank": 53
+  },
+  {
+    "noun_singular": "Zimmer",
+    "english_meaning": "Room",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Zimmer"
+    ],
+    "frequency_rank": 665
+  },
+  {
+    "noun_singular": "Tür",
+    "english_meaning": "Door",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Türen"
+    ],
+    "frequency_rank": 375
+  },
+  {
+    "noun_singular": "Frau",
+    "english_meaning": "Woman",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Frauen"
+    ],
+    "frequency_rank": 99
+  },
+  {
+    "noun_singular": "Gesicht",
+    "english_meaning": "Face",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Gesichter"
+    ],
+    "frequency_rank": 346
+  },
+  {
+    "noun_singular": "Mutter",
+    "english_meaning": "Mother",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Mütter"
+    ],
+    "frequency_rank": 218
+  },
+  {
+    "noun_singular": "Leute",
+    "english_meaning": "People",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Leute"
+    ],
+    "frequency_rank": 224
+  },
+  {
+    "noun_singular": "Nacht",
+    "english_meaning": "Night",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Nächte"
+    ]
+  },
+  {
+    "noun_singular": "Haus",
+    "english_meaning": "House",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Häuser"
+    ]
+  },
+  {
+    "noun_singular": "Vater",
+    "english_meaning": "Father",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Väter"
+    ],
+    "frequency_rank": 232
+  },
+  {
+    "noun_singular": "Leben",
+    "english_meaning": "Life",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Leben"
+    ]
+  },
+  {
+    "noun_singular": "Rücken",
+    "english_meaning": "Back",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Rücken"
+    ],
+    "frequency_rank": 1060
+  },
+  {
+    "noun_singular": "Stimme",
+    "english_meaning": "Voice",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Stimmen"
+    ],
+    "frequency_rank": 399
+  },
+  {
+    "noun_singular": "Mädchen",
+    "english_meaning": "Girl",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Mädchen"
+    ],
+    "frequency_rank": 602
+  },
+  {
+    "noun_singular": "Ort",
+    "english_meaning": "Place",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Orte"
+    ],
+    "frequency_rank": 341
+  },
+  {
+    "noun_singular": "Junge",
+    "english_meaning": "Boy",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Jungen"
+    ],
+    "frequency_rank": 548
+  },
+  {
+    "noun_singular": "Auto",
+    "english_meaning": "Car",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Autos"
+    ],
+    "frequency_rank": 361
+  },
+  {
+    "noun_singular": "Seite",
+    "english_meaning": "Side",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Seiten"
+    ],
+    "frequency_rank": 197
+  },
+  {
+    "noun_singular": "Arm",
+    "english_meaning": "Arm",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Arme"
+    ],
+    "frequency_rank": 527
+  },
+  {
+    "noun_singular": "Kind",
+    "english_meaning": "Child",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Kinder"
+    ],
+    "frequency_rank": 133
+  },
+  {
+    "noun_singular": "Wort",
+    "english_meaning": "Word",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Wörter"
+    ],
+    "frequency_rank": 194
+  },
+  {
+    "noun_singular": "Moment",
+    "english_meaning": "Moment",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Momente"
+    ],
+    "frequency_rank": 358
+  },
+  {
+    "noun_singular": "Haar",
+    "english_meaning": "Hair",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Haare"
+    ],
+    "frequency_rank": 748
+  },
+  {
+    "noun_singular": "Fuß",
+    "english_meaning": "Foot",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Füße"
+    ],
+    "frequency_rank": 573
+  },
+  {
+    "noun_singular": "Wasser",
+    "english_meaning": "Water",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Wässer"
+    ],
+    "frequency_rank": 245
+  },
+  {
+    "noun_singular": "Licht",
+    "english_meaning": "Light",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Lichter"
+    ],
+    "frequency_rank": 436
+  },
+  {
+    "noun_singular": "Welt",
+    "english_meaning": "World",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Welten"
+    ],
+    "frequency_rank": 164
+  },
+  {
+    "noun_singular": "Name",
+    "english_meaning": "Name",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Namen"
+    ],
+    "frequency_rank": 255
+  },
+  {
+    "noun_singular": "Freund",
+    "english_meaning": "Friend",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Freunde"
+    ],
+    "frequency_rank": 273
+  },
+  {
+    "noun_singular": "Fenster",
+    "english_meaning": "Window",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Fenster"
+    ],
+    "frequency_rank": 674
+  },
+  {
+    "noun_singular": "Körper",
+    "english_meaning": "Body",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Körper"
+    ],
+    "frequency_rank": 488
+  },
+  {
+    "noun_singular": "Tisch",
+    "english_meaning": "Table",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Tische"
+    ],
+    "frequency_rank": 529
+  },
+  {
+    "noun_singular": "Morgen",
+    "english_meaning": "Morning",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Morgen"
+    ]
+  },
+  {
+    "noun_singular": "Bett",
+    "english_meaning": "Bed",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Betten"
+    ],
+    "frequency_rank": 659
+  },
+  {
+    "noun_singular": "Wand",
+    "english_meaning": "Wall",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Wände"
+    ],
+    "frequency_rank": 828
+  },
+  {
+    "noun_singular": "Straße",
+    "english_meaning": "Street",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Straßen"
+    ],
+    "frequency_rank": 391
+  },
+  {
+    "noun_singular": "Schule",
+    "english_meaning": "School",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Schulen"
+    ],
+    "frequency_rank": 359
+  },
+  {
+    "noun_singular": "Luft",
+    "english_meaning": "Air",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Lüfte"
+    ],
+    "frequency_rank": 487
+  },
+  {
+    "noun_singular": "Boden",
+    "english_meaning": "Floor",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Böden"
+    ],
+    "frequency_rank": 536
+  },
+  {
+    "noun_singular": "Stunde",
+    "english_meaning": "Hour",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Stunden"
+    ],
+    "frequency_rank": 276
+  },
+  {
+    "noun_singular": "Ende",
+    "english_meaning": "End",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Enden"
+    ],
+    "frequency_rank": 183
+  },
+  {
+    "noun_singular": "Familie",
+    "english_meaning": "Family",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Familien"
+    ],
+    "frequency_rank": 329
+  },
+  {
+    "noun_singular": "Kerl",
+    "english_meaning": "Guy",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Kerle"
+    ]
+  },
+  {
+    "noun_singular": "Minute",
+    "english_meaning": "Minute",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Minuten"
+    ],
+    "frequency_rank": 324
+  },
+  {
+    "noun_singular": "Geschichte",
+    "english_meaning": "Story",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Geschichten"
+    ],
+    "frequency_rank": 262
+  },
+  {
+    "noun_singular": "Gott",
+    "english_meaning": "God",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Götter"
+    ],
+    "frequency_rank": 514
+  },
+  {
+    "noun_singular": "Woche",
+    "english_meaning": "Week",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Wochen"
+    ],
+    "frequency_rank": 219
+  },
+  {
+    "noun_singular": "Arbeit",
+    "english_meaning": "Work",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [],
+    "frequency_rank": 208
+  },
+  {
+    "noun_singular": "Schulter",
+    "english_meaning": "Shoulder",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [],
+    "frequency_rank": 1023
+  },
+  {
+    "noun_singular": "Teil",
+    "english_meaning": "Part",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Teile"
+    ]
+  },
+  {
+    "noun_singular": "Verstand",
+    "english_meaning": "Mind",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Verstände"
+    ]
+  },
+  {
+    "noun_singular": "Buch",
+    "english_meaning": "Book",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Bücher"
+    ],
+    "frequency_rank": 300
+  },
+  {
+    "noun_singular": "Finger",
+    "english_meaning": "Finger",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Finger"
+    ],
+    "frequency_rank": 1019
+  },
+  {
+    "noun_singular": "Mund",
+    "english_meaning": "Mouth",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Münder"
+    ],
+    "frequency_rank": 856
+  },
+  {
+    "noun_singular": "Glas",
+    "english_meaning": "Glass",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Gläser"
+    ],
+    "frequency_rank": 885
+  },
+  {
+    "noun_singular": "Baum",
+    "english_meaning": "Tree",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Bäume"
+    ],
+    "frequency_rank": 1013
+  },
+  {
+    "noun_singular": "Klang",
+    "english_meaning": "Sound",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Klänge"
+    ]
+  },
+  {
+    "noun_singular": "Linie",
+    "english_meaning": "Line",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Linien"
+    ],
+    "frequency_rank": 926
+  },
+  {
+    "noun_singular": "Ehefrau",
+    "english_meaning": "Wife",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Ehefrauen"
+    ]
+  },
+  {
+    "noun_singular": "Herz",
+    "english_meaning": "Heart",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Herzen"
+    ],
+    "frequency_rank": 532
+  },
+  {
+    "noun_singular": "Geld",
+    "english_meaning": "Money",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Gelder"
+    ],
+    "frequency_rank": 235
+  },
+  {
+    "noun_singular": "Telefon",
+    "english_meaning": "Phone",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Telefone"
+    ],
+    "frequency_rank": 1595
+  },
+  {
+    "noun_singular": "Blick",
+    "english_meaning": "Look",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Blicke"
+    ],
+    "frequency_rank": 306
+  },
+  {
+    "noun_singular": "Bein",
+    "english_meaning": "Leg",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Beine"
+    ],
+    "frequency_rank": 884
+  },
+  {
+    "noun_singular": "Stuhl",
+    "english_meaning": "Chair",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Stühle"
+    ]
+  },
+  {
+    "noun_singular": "Büro",
+    "english_meaning": "Office",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Büros"
+    ]
+  },
+  {
+    "noun_singular": "Bruder",
+    "english_meaning": "Brother",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Brüder"
+    ],
+    "frequency_rank": 730
+  },
+  {
+    "noun_singular": "Frage",
+    "english_meaning": "Question",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Fragen"
+    ],
+    "frequency_rank": 157
+  },
+  {
+    "noun_singular": "Stadt",
+    "english_meaning": "City",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Städte"
+    ],
+    "frequency_rank": 204
+  },
+  {
+    "noun_singular": "Monat",
+    "english_meaning": "Month",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Monate"
+    ],
+    "frequency_rank": 316
+  },
+  {
+    "noun_singular": "Baby",
+    "english_meaning": "Baby",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Babys"
+    ]
+  },
+  {
+    "noun_singular": "Zuhause",
+    "english_meaning": "Home",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Zuhause"
+    ]
+  },
+  {
+    "noun_singular": "Hund",
+    "english_meaning": "Dog",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Hunde"
+    ],
+    "frequency_rank": 825
+  },
+  {
+    "noun_singular": "Idee",
+    "english_meaning": "Idea",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Ideen"
+    ],
+    "frequency_rank": 451
+  },
+  {
+    "noun_singular": "Küche",
+    "english_meaning": "Kitchen",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Küchen"
+    ],
+    "frequency_rank": 1041
+  },
+  {
+    "noun_singular": "Grundstück",
+    "english_meaning": "Lot",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Grundstücke"
+    ]
+  },
+  {
+    "noun_singular": "Sohn",
+    "english_meaning": "Son",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Söhne"
+    ],
+    "frequency_rank": 596
+  },
+  {
+    "noun_singular": "Job",
+    "english_meaning": "Job",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Jobs"
+    ],
+    "frequency_rank": 1115
+  },
+  {
+    "noun_singular": "Papier",
+    "english_meaning": "Paper",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Papiere"
+    ],
+    "frequency_rank": 1163
+  },
+  {
+    "noun_singular": "Schwester",
+    "english_meaning": "Sister",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Schwestern"
+    ],
+    "frequency_rank": 974
+  },
+  {
+    "noun_singular": "Lächeln",
+    "english_meaning": "Smile",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Lächeln"
+    ]
+  },
+  {
+    "noun_singular": "Punkt",
+    "english_meaning": "Point",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Punkte"
+    ],
+    "frequency_rank": 248
+  },
+  {
+    "noun_singular": "Gedanke",
+    "english_meaning": "Thought",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Gedanken"
+    ],
+    "frequency_rank": 585
+  },
+  {
+    "noun_singular": "Liebe",
+    "english_meaning": "Love",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Lieben"
+    ],
+    "frequency_rank": 844
+  },
+  {
+    "noun_singular": "Tod",
+    "english_meaning": "Death",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Tode"
+    ],
+    "frequency_rank": 540
+  },
+  {
+    "noun_singular": "Feuer",
+    "english_meaning": "Fire",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Feuer"
+    ],
+    "frequency_rank": 1576
+  },
+  {
+    "noun_singular": "Schritt",
+    "english_meaning": "Step",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Schritte"
+    ],
+    "frequency_rank": 376
+  },
+  {
+    "noun_singular": "Blut",
+    "english_meaning": "Blood",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Blute"
+    ],
+    "frequency_rank": 851
+  },
+  {
+    "noun_singular": "Tatsache",
+    "english_meaning": "Fact",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Tatsachen"
+    ],
+    "frequency_rank": 1513
+  },
+  {
+    "noun_singular": "Atem",
+    "english_meaning": "Breath",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Atemzüge"
+    ]
+  },
+  {
+    "noun_singular": "Lippe",
+    "english_meaning": "Lip",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Lippen"
+    ]
+  },
+  {
+    "noun_singular": "Sonne",
+    "english_meaning": "Sun",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [],
+    "frequency_rank": 864
+  },
+  {
+    "noun_singular": "Gebäude",
+    "english_meaning": "Building",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Gebäude"
+    ],
+    "frequency_rank": 1386
+  },
+  {
+    "noun_singular": "Nummer",
+    "english_meaning": "Number",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Nummern"
+    ],
+    "frequency_rank": 806
+  },
+  {
+    "noun_singular": "Ehemann",
+    "english_meaning": "Husband",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Ehemänner"
+    ]
+  },
+  {
+    "noun_singular": "Elternteil",
+    "english_meaning": "Parent",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Elternteile"
+    ]
+  },
+  {
+    "noun_singular": "Ecke",
+    "english_meaning": "Corner",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Ecken"
+    ],
+    "frequency_rank": 1376
+  },
+  {
+    "noun_singular": "Problem",
+    "english_meaning": "Problem",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Probleme"
+    ],
+    "frequency_rank": 210
+  },
+  {
+    "noun_singular": "Paar",
+    "english_meaning": "Couple",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Paare"
+    ]
+  },
+  {
+    "noun_singular": "Tochter",
+    "english_meaning": "Daughter",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [],
+    "frequency_rank": 694
+  },
+  {
+    "noun_singular": "Tasche",
+    "english_meaning": "Bag",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": []
+  },
+  {
+    "noun_singular": "Hölle",
+    "english_meaning": "Hell",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": []
+  },
+  {
+    "noun_singular": "Ruhe",
+    "english_meaning": "Rest",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [],
+    "frequency_rank": 989
+  },
+  {
+    "noun_singular": "Geschäft",
+    "english_meaning": "Business",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Geschäfte"
+    ],
+    "frequency_rank": 765
+  },
+  {
+    "noun_singular": "Himmel",
+    "english_meaning": "Sky",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Himmel"
+    ],
+    "frequency_rank": 889
+  },
+  {
+    "noun_singular": "Schachtel",
+    "english_meaning": "Box",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": []
+  },
+  {
+    "noun_singular": "Person",
+    "english_meaning": "Person",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Personen"
+    ],
+    "frequency_rank": 357
+  },
+  {
+    "noun_singular": "Grund",
+    "english_meaning": "Reason",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Gründe"
+    ],
+    "frequency_rank": 249
+  },
+  {
+    "noun_singular": "Recht",
+    "english_meaning": "Right",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": []
+  },
+  {
+    "noun_singular": "Haut",
+    "english_meaning": "Skin",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Häute"
+    ],
+    "frequency_rank": 1149
+  },
+  {
+    "noun_singular": "Fall",
+    "english_meaning": "Case",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Fälle"
+    ],
+    "frequency_rank": 187
+  },
+  {
+    "noun_singular": "Stück",
+    "english_meaning": "Piece",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [],
+    "frequency_rank": 511
+  },
+  {
+    "noun_singular": "Arzt",
+    "english_meaning": "Doctor",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Ärzte"
+    ],
+    "frequency_rank": 622
+  },
+  {
+    "noun_singular": "Rand",
+    "english_meaning": "Edge",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [],
+    "frequency_rank": 1203
+  },
+  {
+    "noun_singular": "Sinn",
+    "english_meaning": "Sense",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [],
+    "frequency_rank": 380
+  },
+  {
+    "noun_singular": "Ohr",
+    "english_meaning": "Ear",
+    "definite_article": "das",
+    "gender": "neuter",
+    "plural_forms": [
+      "Ohren"
+    ],
+    "frequency_rank": 1088
+  },
+  {
+    "noun_singular": "Sekunde",
+    "english_meaning": "Second",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [],
+    "frequency_rank": 837
+  },
+  {
+    "noun_singular": "Dame",
+    "english_meaning": "Lady",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Damen"
+    ],
+    "frequency_rank": 702
+  },
+  {
+    "noun_singular": "Hals",
+    "english_meaning": "Neck",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Hälse"
+    ],
+    "frequency_rank": 1591
+  },
+  {
+    "noun_singular": "Wind",
+    "english_meaning": "Wind",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Winde"
+    ],
+    "frequency_rank": 1124
+  },
+  {
+    "noun_singular": "Schreibtisch",
+    "english_meaning": "Desk",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": []
+  },
+  {
+    "noun_singular": "Waffe",
+    "english_meaning": "Gun",
+    "definite_article": "die",
+    "gender": "feminine",
+    "plural_forms": [
+      "Waffen"
+    ],
+    "frequency_rank": 1625
+  },
+  {
+    "noun_singular": "Stein",
+    "english_meaning": "Stone",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [],
+    "frequency_rank": 1181
+  },
+  {
+    "noun_singular": "Kaffee",
+    "english_meaning": "Coffee",
+    "definite_article": "der",
+    "gender": "masculine",
+    "plural_forms": [
+      "Kaffees"
+    ],
+    "frequency_rank": 1299
+  }
+]
